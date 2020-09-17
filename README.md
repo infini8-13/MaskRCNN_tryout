@@ -1,10 +1,10 @@
 # MaskRCNN_tryout
 ## Instance Segmentation using Mask RCNN(with pretrained weights of COCO dataset)
-Input image:
+#### Input image:
 ![](https://github.com/infini8-13/MaskRCNN_tryout/blob/master/images/sample_pose_lockdown.png)
 
-Output image(segmented):
-![](https://github.com/infini8-13/MaskRCNN_tryout/blob/master/images/sample_pose_lockdown.png?raw=true)
+#### Output image(segmented):
+![](https://github.com/infini8-13/MaskRCNN_tryout/blob/master/images/segmented_sample.png)
  
 
 ### To learn more about Mask R-CNN:
