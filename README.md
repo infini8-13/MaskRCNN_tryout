@@ -3,6 +3,6 @@
 
 
 ### To know more about Mask R-CNN:
-https://arxiv.org/abs/1703.06870 (Paper)
-https://github.com/matterport/Mask_RCNN (Code)
+* https://arxiv.org/abs/1703.06870 (Paper)
+* https://github.com/matterport/Mask_RCNN (Code)
 
